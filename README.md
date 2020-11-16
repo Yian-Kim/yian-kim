@@ -19,10 +19,6 @@
 
 - ⚡ Fun fact **I'm a developer who was a marketer and business PM with a double major in advertising and computer engineering.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/devchanmi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="devchanmi" height="30" width="40" /></a>
@@ -35,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanmi-kim&show_icons=true&locale=en&layout=compact" alt="chanmi-kim" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanmi-kim" alt="chanmi-kim" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST:START -->
+<!-- BLOG-POST:END -->
