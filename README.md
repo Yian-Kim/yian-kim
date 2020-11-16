@@ -34,4 +34,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST:START -->
+- [웹 백엔드 개발자가 되기 위한 성장통](http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/)
+- [[이슈해결] 소스트리 종료 현상 - SourceTree Crash Report](http://chanmi-kim.github.io/Devlog/Issues/2020/04/19/Issues-SourceTree-Crash-Report/)
+- [Hexo | 헥소 개발자 커뮤니티에 초대합니다!](http://chanmi-kim.github.io/Devlog/Hexo/2019/11/11/Hexo-Developer-community/)
+- [깃허브 잔디심기 - 6개월간 회고록](http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/)
+- [[이슈등록] Git & Hexo - LF will be replaced by CRLF](http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/)
 <!-- BLOG-POST:END -->
