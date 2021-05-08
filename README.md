@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chanmi-Kim](https://github.com/Chanmi-Kim)
 
-- 📝 I regulary write articles on [https://chanmi-kim.github.io](https://chanmi-kim.github.io)
+<!-- - 📝 I regulary write articles on [https://chanmi-kim.github.io](https://chanmi-kim.github.io) -->
 
 - 💬 Ask me about **anything whatever! Github, Hexo, Spring Boot, Java, Life, Game, and so on.**
 
