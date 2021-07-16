@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything whatever! Github, Hexo, Spring Boot, Java, Life, Game, and so on.**
 
-- 📫 How to reach me **devyiankim@naver.com**
+- 📫 How to reach me **devyiankim@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chanmi-kim](https://www.linkedin.com/in/chanmi-kim)
 
