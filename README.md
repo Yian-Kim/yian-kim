@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanmi Kim.</h1>
+<h1 align="center">Hi 👋, I'm Yian Kim.</h1>
 <h3 align="center">A passionate web backend developer from Republic of Korea.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yian-kim&label=Profile%20views&color=0e75b6&style=flat" alt="yian-kim" /> </p>
@@ -31,12 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yian-kim&show_icons=true&locale=en&layout=compact" alt="yian-kim" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yian-kim" alt="yian-kim" /></a> </p>
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST:START -->
-- [웹 백엔드 개발자가 되기 위한 성장통](http://chanmi-kim.github.io/Devlog/Essay/2020/05/24/2020-NWZ-Internship/)
-- [[이슈해결] 소스트리 종료 현상 - SourceTree Crash Report](http://chanmi-kim.github.io/Devlog/Issues/2020/04/19/Issues-SourceTree-Crash-Report/)
-- [Hexo | 헥소 개발자 커뮤니티에 초대합니다!](http://chanmi-kim.github.io/Devlog/Hexo/2019/11/11/Hexo-Developer-community/)
-- [깃허브 잔디심기 - 6개월간 회고록](http://chanmi-kim.github.io/Devlog/Essay/2019/11/06/Essay-Github-Grass-Plantation-A-Memoir-for-6-Month/)
-- [[이슈등록] Git & Hexo - LF will be replaced by CRLF](http://chanmi-kim.github.io/Devlog/Issues/2019/10/06/Issues-Git-Hexo-LF-will-be-replaced-by-CRLF/)
-<!-- BLOG-POST:END -->
