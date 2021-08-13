@@ -12,8 +12,8 @@
 
 <p align="center">
   <b>✨ Connect with me: </b>
-  <a href="https://yian.tistoriy.com">
-    <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yian.tistoriy.com" />
+  <a href="https://yian.tistory.com">
+    <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yian.tistory.com" />
   </a>
   <a href="https://www.linkedin.com/in/yian-kim">
     <img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yian-kim" />
