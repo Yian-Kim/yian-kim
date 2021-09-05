@@ -24,9 +24,6 @@
   <a href="https://www.facebook.com/devyiankim">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devyiankim" />
   </a>
-    <a href="https://www.instagram.com/yianis2">
-    <img alt="Instagram Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yianis2" />
-  </a>
   <a href="mailto:devyiankim@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devyiankim@gmail.com" />
   </a>
