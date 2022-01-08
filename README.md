@@ -21,7 +21,7 @@
   <!--   <a href="https://www.youtube.com/c/아이디">
     <img alt="Youtube Badge" src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/아이디" />
   </a> -->
-  <a href="https://www.facebook.com/devyiankim">
+  <a href="https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337" />
   </a>
   <a href="mailto:devyiankim@gmail.com">
