@@ -42,3 +42,14 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </p>
+
+<br><br>
+---
+
+### ✍🏻 Article
+
+- [(2022.01.01.) 2021 회고 | Level 2 가짜 개발자의 진짜 개발자가 되기 위한 여정(勵精)](https://yian.tistory.com/43) <br>
+- [(2021.12.29.) 2020 회고 | Level 1 가짜 개발자](https://yian.tistory.com/42) <br>
+- [(2021.12.28.) 2020 깃허브 잔디심기 | 1년 동안 꾸준히 깃허브 일일커밋을 하면 생기는 일](https://yian.tistory.com/31)
+- [(2020.05.24.) 웹 백엔드 개발자가 되기 위한 성장통](https://yian.tistory.com/5)
+- [(2019.11.06.) 2019 깃허브 잔디심기 | 6개월간 회고록](https://yian.tistory.com/4)
