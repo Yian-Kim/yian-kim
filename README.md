@@ -12,12 +12,12 @@
 
 <p align="center">
   <b>✨ Connect with me: </b>
-  <a href="https://yian.tistory.com">
+<!--   <a href="https://yian.tistory.com">
     <img alt="Tech Blog Badge" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yian.tistory.com" />
-  </a>
-  <a href="https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337">
+  </a> -->
+<!--   <a href="https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337">
     <img alt="Facebook Badge" src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%96%80-YIAN-105291228657337" />
-  </a>
+  </a> -->
   <a href="mailto:devyiankim@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devyiankim@gmail.com" />
   </a>
